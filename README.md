@@ -14,7 +14,7 @@ In this project, I tried to show the Happiness Score and other factors that affe
 This is a project I saw on Youtube and tried to follow along with it to further enhance and practice my skills in Tableau.
 The Netflix project shows the details about the Movies and TV Shows added from 2008-2020.
 
-## [Project 3: Executive Overview](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/ExecutiveOverview_16918103976260/ExecutiveOverview?publish=yes)
+## [Project 3: Profitability Executive Overview](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/ExecutiveOverview_16918103976260/ExecutiveOverview?publish=yes)
 
 This is a little more advanced and really cool dashboard I made by taking the Tableau Creator training. The project showed the sales of a company in USA.
 

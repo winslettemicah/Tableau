@@ -2,6 +2,8 @@
 
 ### Welcome to my Tableau portfolio! This repository contains samples of Tableau dashboards I've made. Feel free to take a look and reach out via email if you have any questions: *winslettemicah@gmail.com*
 
+(Note: Best to view the dashboard in full screen.)
+
 ## [Project 1: World Happiness Report 2015-2019](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/WorldHappinessReport_16926190630610/WorldHappinessReport2015-2019?publish=yes)
 
 This is a project I did under my certification of Break Into Tech.

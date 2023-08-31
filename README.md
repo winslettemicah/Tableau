@@ -5,8 +5,7 @@
 ## [Project 1: World Happiness Report 2015-2019](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/WorldHappinessReport_16926190630610/WorldHappinessReport2015-2019?publish=yes)
 
 This is a project I did under my certification of Break Into Tech.
-In this project, I tried to show the Happiness Score and other factors that affect the rankings and score of each country over the course of 5 years in which researchers can use to identify such changes. I also showed the Happiest and Least Happiest Countries each year.
-  * Data was taken from Kaggle.
+In this project, I tried to show the Happiness Score and other factors that affect the rankings and score of each country over the course of 5 years in which researchers can use to identify such changes. I also showed the Happiest and Least Happiest Countries each year. (Data was taken from Kaggle.)
 
 ## [Project 2: Netflix Movies and TV Shows](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/Netflix_16933255513220/Netflix?publish=yes)
 

@@ -16,7 +16,7 @@ The Netflix project shows the details about the Movies and TV Shows added from 2
 
 ## [Project 3: Profitability Executive Overview](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/ExecutiveOverview_16918103976260/ExecutiveOverview?publish=yes)
 
-This is a little more advanced and really cool dashboard I made by taking the Tableau Creator training. The project quantified sales, profitability, profit ratio. Visualized profit ratio by city on US map. Quantified monthly sales by segment and category over time by profitable vs. unprofitable orders.
+This is a little more advanced and really cool dashboard I made by taking the Tableau Creator training. On this project, I quantified sales, profitability, and profit ratio. Also visualized profit ratio by city on US map and quantified monthly sales by segment and category over time by profitable vs. unprofitable orders.
 
 ## [Project 4: February - Product Sales Report](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/February-ProductSalesReport/February-ProductSalesReport?publish=yes)
 
@@ -24,4 +24,4 @@ The project shows the product sales report of a company in the month of February
 
 ## [Project 5: World COVID Data](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/WorldCOVIDData_16916776231150/WorldCovidData?publish=yes)
 
-This is the first Tableau project I did while taking the certification by Break Into Tech. The dashboard shows the 1uantified COVID-19 vaccination rates over time, by country and regions, and by income group; published a Tableau dashboard to visualize results.
+This is the first Tableau project I did while taking the certification by Break Into Tech. The dashboard shows the quantified COVID-19 vaccination rates over time, by country and regions, and by income group; published a Tableau dashboard to visualize results.

@@ -18,7 +18,7 @@ The Netflix project shows the details about the Movies and TV Shows added from 2
 
 This is a little more advanced and really cool dashboard I made by taking the Tableau Creator training. On this project, I quantified sales, profitability, and profit ratio. Also visualized profit ratio by city on US map and quantified monthly sales by segment and category over time by profitable vs. unprofitable orders.
 
-## [Project 4: February - Product Sales Report](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/February-ProductSalesReport/February-ProductSalesReport?publish=yes)
+## [Project 4: Customer & Order Analytics](https://public.tableau.com/app/profile/winslette.micah.sanidad/viz/February-ProductSalesReport/February-ProductSalesReport?publish=yes)
 
 The project shows the product sales report of a company in the month of February. It also showed which city has the most ordered products, sales revenue by city, products ordered per day, and sales revenue by product.
 
